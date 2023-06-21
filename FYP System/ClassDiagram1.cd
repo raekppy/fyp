@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FYP.Main">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAgAAECAAAgAAAACAAAACASAAcAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Main.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="AddNewProduct" />
+      <Property Name="ProductStatus" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FYP.AddNewProduct">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAABgUCAAIABAAACwIAiCASAkYAgAAAQIABAFAQg=</HashCode>
+      <FileName>AddNewProduct.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FYP.ProductStatus">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggABAAAAVCAAIAAAIACwAgACACAkYAgAAAAIAhAEAAA=</HashCode>
+      <FileName>ProductStatus.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

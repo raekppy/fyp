@@ -1,0 +1,43 @@
+C:\Users\Eric\Downloads\ArduinoVisualBasicSerial\WFA_ArduinoSerial_001\FYP\obj\Debug\FYP.vbproj.GenerateResource.cache
+C:\Users\Eric\Downloads\ArduinoVisualBasicSerial\WFA_ArduinoSerial_001\FYP\obj\Debug\FYP.vbproj.CoreCompileInputs.cache
+C:\Users\Eric\Downloads\ArduinoVisualBasicSerial\WFA_ArduinoSerial_001\FYP\bin\Debug\FYP.exe.config
+C:\Users\Eric\Downloads\ArduinoVisualBasicSerial\WFA_ArduinoSerial_001\FYP\bin\Debug\FYP.exe
+C:\Users\Eric\Downloads\ArduinoVisualBasicSerial\WFA_ArduinoSerial_001\FYP\bin\Debug\FYP.pdb
+C:\Users\Eric\Downloads\ArduinoVisualBasicSerial\WFA_ArduinoSerial_001\FYP\bin\Debug\FYP.xml
+C:\Users\Eric\Downloads\ArduinoVisualBasicSerial\WFA_ArduinoSerial_001\FYP\obj\Debug\FYP.Form1.resources
+C:\Users\Eric\Downloads\ArduinoVisualBasicSerial\WFA_ArduinoSerial_001\FYP\obj\Debug\FYP.Resources.resources
+C:\Users\Eric\Downloads\ArduinoVisualBasicSerial\WFA_ArduinoSerial_001\FYP\obj\Debug\FYP.exe
+C:\Users\Eric\Downloads\ArduinoVisualBasicSerial\WFA_ArduinoSerial_001\FYP\obj\Debug\FYP.xml
+C:\Users\Eric\Downloads\ArduinoVisualBasicSerial\WFA_ArduinoSerial_001\FYP\obj\Debug\FYP.pdb
+C:\Users\Eric\Downloads\FYP\FYP\FYP\bin\Debug\FYP.exe.config
+C:\Users\Eric\Downloads\FYP\FYP\FYP\bin\Debug\FYP.exe
+C:\Users\Eric\Downloads\FYP\FYP\FYP\bin\Debug\FYP.pdb
+C:\Users\Eric\Downloads\FYP\FYP\FYP\bin\Debug\FYP.xml
+C:\Users\Eric\Downloads\FYP\FYP\FYP\obj\Debug\FYP.vbprojAssemblyReference.cache
+C:\Users\Eric\Downloads\FYP\FYP\FYP\obj\Debug\FYP.Resources.resources
+C:\Users\Eric\Downloads\FYP\FYP\FYP\obj\Debug\FYP.vbproj.GenerateResource.cache
+C:\Users\Eric\Downloads\FYP\FYP\FYP\obj\Debug\FYP.vbproj.CoreCompileInputs.cache
+C:\Users\Eric\Downloads\FYP\FYP\FYP\obj\Debug\FYP.exe
+C:\Users\Eric\Downloads\FYP\FYP\FYP\obj\Debug\FYP.xml
+C:\Users\Eric\Downloads\FYP\FYP\FYP\obj\Debug\FYP.pdb
+C:\Users\Eric\Downloads\FYP\FYP\FYP\obj\Debug\FYP.Main.resources
+C:\Users\Eric\Downloads\FYP\FYP\FYP\obj\Debug\FYP.Login.resources
+C:\Users\Eric\Downloads\FYP\FYP\FYP\obj\Debug\FYP.AddNewProduct.resources
+C:\Users\Eric\Downloads\FYP\FYP\FYP\obj\Debug\FYP.ProductStatus.resources
+C:\Users\Eric\Downloads\FYP\FYP\FYP\obj\Debug\FYP.a.resources
+C:\Users\Eric\Desktop\FYP System\bin\Debug\FYP.exe.config
+C:\Users\Eric\Desktop\FYP System\bin\Debug\FYP.exe
+C:\Users\Eric\Desktop\FYP System\bin\Debug\FYP.pdb
+C:\Users\Eric\Desktop\FYP System\bin\Debug\FYP.xml
+C:\Users\Eric\Desktop\FYP System\obj\Debug\FYP.vbprojAssemblyReference.cache
+C:\Users\Eric\Desktop\FYP System\obj\Debug\FYP.AddNewProduct.resources
+C:\Users\Eric\Desktop\FYP System\obj\Debug\FYP.Login.resources
+C:\Users\Eric\Desktop\FYP System\obj\Debug\FYP.ProductStatus.resources
+C:\Users\Eric\Desktop\FYP System\obj\Debug\FYP.Main.resources
+C:\Users\Eric\Desktop\FYP System\obj\Debug\FYP.a.resources
+C:\Users\Eric\Desktop\FYP System\obj\Debug\FYP.Resources.resources
+C:\Users\Eric\Desktop\FYP System\obj\Debug\FYP.vbproj.GenerateResource.cache
+C:\Users\Eric\Desktop\FYP System\obj\Debug\FYP.vbproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\FYP System\obj\Debug\FYP.exe
+C:\Users\Eric\Desktop\FYP System\obj\Debug\FYP.xml
+C:\Users\Eric\Desktop\FYP System\obj\Debug\FYP.pdb
